@@ -1,1 +1,2 @@
-# animal_segmentation
+# Сегментация животных
+Модель UNET, обученная на датасете OXFORD-PETS, с метрикой Accuracy 88%
